@@ -1,4 +1,4 @@
-Gazi's work in progress of abraham-lincoln
+Gazi's work in progress of abraham-lincoln \n
 Gazi does not claim to be the original creator of this theme, he is adapting and modernizing it to the needs of the current Wesleyan Argus team
 ===============
 
