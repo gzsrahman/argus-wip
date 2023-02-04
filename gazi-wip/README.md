@@ -1,4 +1,5 @@
-abraham-lincoln
+Gazi's work in progress of abraham-lincoln
+Gazi does not claim to be the original creator of this theme, he is adapting and modernizing it to the needs of the current Wesleyan Argus team
 ===============
 
 Classy Wordpress theme designed for [The Wesleyan Argus](http://wesleyanargus.com). It is not live yet since it's in progress. It is mostly specific to the plugins and structures used by the Wesleyan Argus.
