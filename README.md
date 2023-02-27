@@ -50,8 +50,8 @@ I believe these updates encompass the immediate goals that the group needed cove
   <li>-> Faster running base code</li>
   <li>-> Animated buttons</li>
   <li>-> Automatically generated Wesleyan-themed games</li>
-  <li>-> Crossword</li>
-  <li>-> Wordle (Argle? Yikes, I should not be trusted to name things)</li>
+  <li>-> -> Crossword</li>
+  <li>-> -> Wordle (Argle? Yikes, I should not be trusted to name things)</li>
   <li>-> CSS that is less redundent and more reuseable</li>
   <li>-> Generally more modern visual elements</li>
     <li>-> Easier to navigate back-end for writers
