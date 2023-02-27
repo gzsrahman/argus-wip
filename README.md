@@ -41,20 +41,19 @@ Note that the pertinent theme folders correspond by greatest value, i.e. 1.0 is 
   
   
   
-I believe these updates encompass the immediate goals that the group needed covered. I have a multitude of goals moving forward:
-<ul>
-  Build skills in HTML, PHP, and CSS
-  Learn Javascript
-  Learn more about web servers and how they work
-  Draft a new website theme called Hermes
-    -> Website format that mirrors our printed newspaper
-    -> Faster running base code
-    -> Animated buttons
-    -> Automatically generated Wesleyan-themed games
-      -> Crossword
-      -> Wordle (Argle? Yikes, I should not be trusted to name things)
-    -> CSS that is less redundent and more reuseable
-    -> Generally more modern visual elements
-    -> Easier to navigate back-end for writers
-      -> Wordpress utilities are incredibly limited, they make our articles look like 2010 blogs. I want to build a utility that allows writers and editors to build articles on Google Drive and download them as PDFs. Afterwards, the program would translate it into HTML that would display the PDF in line with the vision the authors had in mind. Then, the editors could simply copy and paste the HTML into the backend and create more visually appealing articles without ever having to learn web design themselves.
+I believe these updates encompass the immediate goals that the group needed covered. I have a multitude of goals moving forward:<ul>
+  <li>Build skills in HTML, PHP, and CSS</li>
+  <li>Learn Javascript</li>
+  <li>Learn more about web servers and how they work</li>
+  <li>Draft a new website theme called Hermes</li>
+  <li>-> Website format that mirrors our printed newspaper</li>
+  <li>-> Faster running base code</li>
+  <li>-> Animated buttons</li>
+  <li>-> Automatically generated Wesleyan-themed games</li>
+  <li>-> Crossword</li>
+  <li>-> Wordle (Argle? Yikes, I should not be trusted to name things)</li>
+  <li>-> CSS that is less redundent and more reuseable</li>
+  <li>-> Generally more modern visual elements</li>
+    <li>-> Easier to navigate back-end for writers
+      <li>-> Wordpress utilities are incredibly limited, they make our articles look like 2010 blogs. I want to build a utility that allows writers and editors to build articles on Google Drive and download them as PDFs. Afterwards, the program would translate it into HTML that would display the PDF in line with the vision the authors had in mind. Then, the editors could simply copy and paste the HTML into the backend and create more visually appealing articles without ever having to learn web design themselves.</li></li></li>
 </ul>
