@@ -18,22 +18,31 @@ The new Food section can be seen on the newspaper site, but images of the change
 <img width="1440" alt="Screen Shot 2023-02-27 at 10 58 55 AM" src="https://user-images.githubusercontent.com/124002750/221615039-6ffdce4d-6582-4dc7-b974-a1a03887ebbd.png">
 This project involved refreshing my HTML skills, deciphering PHP, and getting acquainted with the old web editor's coding style so it was a good introduction to web design.
 
+
+
 The new staff page can be seen on the website at http://wesleyanargus.com/staff/ and the old one can be found at http://wesleyanargus.com/staff2022/
 See below screenshots of the old page vs. new. I had to move my postcard down because "wE wAnT tO eMpOwEr OuR wRiTeRs." Ugh... the things I do for these folks :) For clarity, ridiculing the quote was a joke, I love my team.
 <img width="1438" alt="Screen Shot 2023-02-07 at 4 32 50 PM" src="https://user-images.githubusercontent.com/124002750/221615393-7c8414be-c918-487f-9a71-1c79ff12fbc0.png">
 <img width="1440" alt="Screen Shot 2023-02-03 at 11 44 36 PM" src="https://user-images.githubusercontent.com/124002750/221615409-5e78118f-187d-4c01-a84c-c10a456725d1.png">
 This project involved improving my HTML and learning CSS from scratch, so it was a great way to build on my skills. I was proud when I finished but I can now find countless points of improvement. Is that always how it goes? I look forward to making changes when I get done with my more immediate goals.
 
+
+
 The podcast section can be found on the website and in the screenshot below. Note how the image casts a shadow when the cursor hovers above it to indicate it's a button. (I was very impressed with myself). The podcast headline and info automatically updates itself with respect to our anchor.fm page seen here: https://anchor.fm/theargus-podcast.
 <img width="1440" alt="Screen Shot 2023-02-27 at 10 59 24 AM" src="https://user-images.githubusercontent.com/124002750/221616900-db72f6bc-cd24-4e05-8841-1edfa9ff4036.png">
 This project was a great opportunity to build some skills in PHP. I learned how to webscrape using this new language in the process of making it automatically updated. I also learned about some limitations of the language that other programming languages would potentially be able to solve. I look forward to learning more about Javascript to build more features into the website in the future.
+
+
 
 Note that the pertinent theme folders correspond by greatest value, i.e. 1.0 is oldest, and each next value is more recent. As far as the updates go:
   gazi1.0 involves an updated food section
   gazi1.1-1.2 involve updated CSS for the staff page and some minor website tweaks
   gazi1.3 includes updated CSS for the podcast classes, new HTML for the new tab, and new PHP to compliment the necessary elements of the new section.
   
+  
+  
 I believe these updates encompass the immediate goals that the group needed covered. I have a multitude of goals moving forward:
+<ul>
   Build skills in HTML, PHP, and CSS
   Learn Javascript
   Learn more about web servers and how they work
@@ -48,3 +57,4 @@ I believe these updates encompass the immediate goals that the group needed cove
     -> Generally more modern visual elements
     -> Easier to navigate back-end for writers
       -> Wordpress utilities are incredibly limited, they make our articles look like 2010 blogs. I want to build a utility that allows writers and editors to build articles on Google Drive and download them as PDFs. Afterwards, the program would translate it into HTML that would display the PDF in line with the vision the authors had in mind. Then, the editors could simply copy and paste the HTML into the backend and create more visually appealing articles without ever having to learn web design themselves.
+</ul>
