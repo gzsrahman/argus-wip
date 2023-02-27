@@ -1,6 +1,6 @@
 # Gazi Work-in-Progress
 
-This is a theme for the Wesleyan Argus, the premier campus newspaper at Wesleyan University. The website is built on Wordpress and is due for many updates. I really can't wait.
+This is a temporary continuation of the Abraham Lincoln theme built for the Wesleyan Argus, the premier campus newspaper at Wesleyan University. The website is built on Wordpress and is due for many updates. I really can't wait.
 
 The Argus can be found at http://wesleyanargus.com
 
