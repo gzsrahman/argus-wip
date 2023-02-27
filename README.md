@@ -2,6 +2,8 @@
 
 This is a temporary continuation of the Abraham Lincoln theme built for the Wesleyan Argus, the premier campus newspaper at Wesleyan University. The website is built on Wordpress and is due for many updates. I really can't wait.
 
+The original website template can be found at https://github.com/wesleyanargus/abraham-lincoln
+
 The Argus can be found at http://wesleyanargus.com
 
 So far, my major progress points have been
