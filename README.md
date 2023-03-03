@@ -44,6 +44,8 @@ Note that the pertinent theme folders correspond by greatest value, i.e. 1.0 is 
   
   
 I believe these updates encompass the immediate goals that the group needed covered. I have a multitude of goals moving forward:
+
+
 *Build skills in HTML, PHP, and CSS
 *Learn Javascript
 *Learn more about web servers and how they work
